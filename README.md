@@ -35,8 +35,6 @@
 </p>
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=extinctsion" alt="Aditya" /></a> </p>
----
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=extinctsion&show_icons=true&theme=radical&hide_border=true" />
