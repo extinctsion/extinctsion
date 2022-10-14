@@ -42,6 +42,8 @@
 </p>
 
 ---
+[![@extinctsion's Holopin board](https://holopin.me/extinctsion)](https://holopin.io/@extinctsion)
+---
   
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extinctsion&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
