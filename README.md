@@ -42,7 +42,7 @@
 </p>
 
 ---
-[![@extinctsion's Holopin board](https://holopin.me/extinctsion)](https://holopin.io/@extinctsion)
+<p align= "center"> [![@extinctsion's Holopin board](https://holopin.me/extinctsion)](https://holopin.io/@extinctsion) </p>
 ---
   
 <p align="center">
