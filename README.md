@@ -9,7 +9,7 @@
 
 #### - 💻‍ I'm a Computer Science Student
 
-#### - 🏆 Badge: Hacktoberfest developer badge
+#### - 🏆 Badge: Hacktoberfest developer badge [2021]
 
 #### - 🎨 Hobbies: Graphic Design and Contributing to open source
 
