@@ -18,9 +18,7 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZuaGdibHMxdDVyOGxqYTVsaTM3dmdlYnpiem9mdDZ3MXQ4dHEyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/KpJ47gKe6b7v7xQyWj/giphy.gif"/>
 </div>
-
 <br />
----
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=extinctsion&show_icons=true&theme=radical&hide_border=true" />
