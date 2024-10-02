@@ -20,24 +20,6 @@
 </div>
 
 <br />
-<p align="center">
-  <a href="https://github.com/extinctsion?tab=followers">
-    <img src="https://img.shields.io/github/followers/extinctsion?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="https://twitter.com/adirockz004">
-    <img src="https://img.shields.io/twitter/follow/adirockz004?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-sharma-1a19191b3//" target="_blank">
-  <img alt="Aditya Sharma | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/people/Aditya-Sharma/100008419575000/" target="_blank">
-  <img  alt="@Aditya Sharma | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/extinctsion" target="_blank">
-  <img alt="Aditya Sharma | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-</p>
-
 ---
 
 <p align="center">
