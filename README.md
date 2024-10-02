@@ -18,6 +18,9 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/X_Yo4A3iOyMAAAAC/hacking.gif" width="100"/>
 </div>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZuaGdibHMxdDVyOGxqYTVsaTM3dmdlYnpiem9mdDZ3MXQ4dHEyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/KpJ47gKe6b7v7xQyWj/giphy.gif" width="100"/>
+</div>
 
 <br />
 <p align="center">
