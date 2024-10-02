@@ -15,8 +15,9 @@
 
 #### - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
-<div>![Hacking GIF](https://media1.tenor.com/m/X_Yo4A3iOyMAAAAC/hacking.gif)</div>
-
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/X_Yo4A3iOyMAAAAC/hacking.gif" width="100"/>
+</div>
 
 <br />
 <p align="center">
