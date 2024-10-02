@@ -15,7 +15,8 @@
 
 #### - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KpJ47gKe6b7v7xQyWj/video" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/KpJ47gKe6b7v7xQyWj/video" width="480" height="269" frameborder="0" allowfullscreen></iframe>
+[via GIPHY](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj)
 
 <br />
 <p align="center">
