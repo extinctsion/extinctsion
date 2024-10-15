@@ -2,7 +2,7 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Web+Developer;Self-taught+Designer;Coder;Always+Learning+new+techonologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Web+Developer;Designer;Coder;Always+Learning+new+techonologies)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=extinctsion&color=blueviolet&label=Profile+Views&style=plastic)
 <br />
