@@ -7,11 +7,11 @@
 ![](https://komarev.com/ghpvc/?username=extinctsion&color=blueviolet&label=Profile+Views&style=plastic)
 <br />
 
-#### - 💻‍ I'm a Computer Science Student
+#### - 💻‍ I'm a Software Engineer
 
-#### - 🏆 Badge: Hacktoberfest developer badge [2021, 2022, 2023]
+#### - 🏆 Badges: Hacktoberfest developer badge [2021, 2022, 2023, 2024]
 
-#### - 🎨 Hobbies: Graphic Design and Contributing to open source
+#### - 🎨 Hobbies: Software Design and Contributing to open source
 
 #### - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 
