@@ -9,7 +9,7 @@
 
 #### - 💻‍ I'm a Software Engineer
 
-#### - 🏆 Badges: Hacktoberfest developer badge [2021, 2022, 2023, 2024]
+#### - 🏆 Badges: Hacktoberfest developer badge [2021, 2022, 2023, 2024, 2025]
 
 #### - 🎨 Hobbies: Software Design and Contributing to open source
 
